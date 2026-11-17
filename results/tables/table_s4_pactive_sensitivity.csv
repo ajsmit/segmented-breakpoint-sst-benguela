@@ -1,0 +1,31 @@
+cell,product,p_active_threshold,n_years,NUD_BR_median
+Cape Frio,OSTIA,0.3,10,359.0
+Cape Frio,OSTIA,0.5,10,353.0
+Cape Frio,OSTIA,0.7,10,336.5
+Cape Frio,OSPO,0.3,10,351.5
+Cape Frio,OSPO,0.5,10,349.0
+Cape Frio,OSPO,0.7,10,330.5
+Walvis Bay,OSTIA,0.3,10,311.0
+Walvis Bay,OSTIA,0.5,10,278.0
+Walvis Bay,OSTIA,0.7,10,238.5
+Walvis Bay,OSPO,0.3,10,316.0
+Walvis Bay,OSPO,0.5,10,274.0
+Walvis Bay,OSPO,0.7,10,227.0
+Luderitz,OSTIA,0.3,10,365.0
+Luderitz,OSTIA,0.5,10,365.0
+Luderitz,OSTIA,0.7,10,363.5
+Luderitz,OSPO,0.3,10,359.0
+Luderitz,OSPO,0.5,10,359.0
+Luderitz,OSPO,0.7,10,356.5
+Cape Columbine,OSTIA,0.3,10,365.0
+Cape Columbine,OSTIA,0.5,10,363.0
+Cape Columbine,OSTIA,0.7,10,360.0
+Cape Columbine,OSPO,0.3,10,356.0
+Cape Columbine,OSPO,0.5,10,353.0
+Cape Columbine,OSPO,0.7,10,348.5
+Cape Peninsula,OSTIA,0.3,10,359.5
+Cape Peninsula,OSTIA,0.5,10,347.5
+Cape Peninsula,OSTIA,0.7,10,289.0
+Cape Peninsula,OSPO,0.3,10,353.0
+Cape Peninsula,OSPO,0.5,10,347.5
+Cape Peninsula,OSPO,0.7,10,293.0

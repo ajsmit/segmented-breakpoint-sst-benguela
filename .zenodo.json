@@ -1,0 +1,31 @@
+{
+  "title": "A segmented-breakpoint measure of cross-shore sea-surface-temperature structure in the Benguela system: code and derived data",
+  "description": "Research code and derived data supporting the accepted Ocean Science article. Includes continuous segmented regression, native-pixel sampling, AR(1)-adjusted model evidence, sensitivity and bootstrap analyses, study mesh, derived tables and representative profiles. Code: MIT. Derived data and documentation: CC BY 4.0. Original SST and ERA5 NetCDF inputs are obtained separately; see docs/REPRODUCIBILITY.md.",
+  "creators": [
+    {
+      "name": "Smit, Albertus J.",
+      "affiliation": "University of the Western Cape"
+    },
+    {
+      "name": "Sweijd, Neville A.",
+      "affiliation": "Stellenbosch University"
+    }
+  ],
+  "upload_type": "software",
+  "license": "mit",
+  "version": "1.0.0",
+  "keywords": [
+    "Benguela",
+    "sea surface temperature",
+    "segmented regression",
+    "thermal breakpoint",
+    "coastal upwelling"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ajsmit/segmented-breakpoint-sst-benguela",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

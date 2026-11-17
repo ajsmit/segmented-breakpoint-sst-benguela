@@ -1,0 +1,21 @@
+cell,product,D_in_C,x_b_km,beta_inshore_C_per_km,n_year_seasons,n_profiles
+Cape Frio,OSTIA,2.08203,153.279,0.0206127,44,109261
+Cape Frio,OSPO,2.04973,158.61,0.020051,44,110148
+Cape Frio,AVHRR,,,,,
+Cape Frio,MW_OI,,,,,
+Walvis Bay,OSTIA,2.53748,263.863,0.0168111,44,65401
+Walvis Bay,OSPO,2.43272,269.605,0.0151877,43,63672
+Walvis Bay,AVHRR,,,,,
+Walvis Bay,MW_OI,,,,,
+Luderitz,OSTIA,3.21457,155.774,0.0336454,44,153754
+Luderitz,OSPO,3.15765,158.688,0.0318833,44,150579
+Luderitz,AVHRR,,,,,
+Luderitz,MW_OI,,,,,
+Cape Columbine,OSTIA,2.54796,175.136,0.029713,44,57268
+Cape Columbine,OSPO,2.41241,180.602,0.0270763,44,56798
+Cape Columbine,AVHRR,,,,,
+Cape Columbine,MW_OI,,,,,
+Cape Peninsula,OSTIA,2.52765,113.83,0.0432109,44,47220
+Cape Peninsula,OSPO,2.16209,113.952,0.0421185,44,50643
+Cape Peninsula,AVHRR,,,,,
+Cape Peninsula,MW_OI,,,,,

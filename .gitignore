@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+verification-output/
+results/figures/
+data/raw/
+data/outputs/uc2d_v2/

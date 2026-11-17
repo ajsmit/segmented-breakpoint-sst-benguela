@@ -1,0 +1,476 @@
+[
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_across_transect_thin.py",
+    "release": "analysis/paperA_across_transect_thin.py",
+    "source_sha256": "f62ee5617fde11a93b9a4cbfd5ce3621d9b161fa27007a2cdfbec8e5107e3a52",
+    "release_sha256": "a2059b69a775e8f9540fede028b86786cb39532ad9d3da26f4076e86391e6fa5"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_aggregate_thinned.py",
+    "release": "analysis/paperA_aggregate_thinned.py",
+    "source_sha256": "8c41e85868e7661537d833c271e35591fb4e4cce0434d9dd917b4bb549a8a6d9",
+    "release_sha256": "969eec91925cc4d54c05350f96cc6823b423efbb100c49ae83e2bde13ef5c9fe"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_aic_confusion.py",
+    "release": "analysis/paperA_aic_confusion.py",
+    "source_sha256": "823f80f77224db6c0bffc2b40045d2648b3bedb5175e8ebe28cb5dac96dec9ee",
+    "release_sha256": "0e92215351b4b183d54c2c954a7010a8f74a1b33e5dbbe0b78fe1b7d84035b05"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_ar1_headline_results.py",
+    "release": "analysis/paperA_ar1_headline_results.py",
+    "source_sha256": "f26a1ce5795adf8a91368363fc4188b7dab6e7e5b70c380b06e06ad6e27be4bb",
+    "release_sha256": "37d7eeaa7fe097fb47dc6f8996eb79cbec3e9f59f519d1f99186b90c67984969"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_block_bootstrap.py",
+    "release": "analysis/paperA_block_bootstrap.py",
+    "source_sha256": "16c654080fe56b16daaad35c2399c3262d5c71efe018110c7190b0ccd6ebe91e",
+    "release_sha256": "60f15796ddcd7e64a56fb0612fcd7f880938cca109be4381f621a3d921bea2d9"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_common.py",
+    "release": "analysis/paperA_common.py",
+    "source_sha256": "19615af5be8a83d31e10c431ca4b441e99f783fe93f32c45496385216f72cdfe",
+    "release_sha256": "4272b9aa9e1c31b8940e08b4178e6f1a0df82799ed6f9a694afdc3349447da0f"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_din_thin_shift.py",
+    "release": "analysis/paperA_din_thin_shift.py",
+    "source_sha256": "d4713323ad79a2f21b0a3b17f52ca69f632791a4fd09bc2e235db5c6f9a4712d",
+    "release_sha256": "5783c4219e17950dc260eefc2fb3052e089868c1d9d8636fa2600925f626887f"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_export_fig_s5_profiles.py",
+    "release": "analysis/paperA_export_fig_s5_profiles.py",
+    "source_sha256": "66c7da602a4d5d1061ac3130b8e28534e8ee3fd8454c2b462f446364b0067179",
+    "release_sha256": "df46ebb33d62637f815a7be678cde03d2fd6d6a9233d95bacef46d79ae873474"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig1_study_region.py",
+    "release": "analysis/paperA_fig1_study_region.py",
+    "source_sha256": "d4e07439ce3a375a1145cabcd554d04e39ec1ee83900596c6e1f505fbdbae2a9",
+    "release_sha256": "9d9fc246612d018d0baa0727fe80ff318870dc5a5b1f370d8b49013a8a258da3"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig1_study_region_v3.py",
+    "release": "analysis/paperA_fig1_study_region_v3.py",
+    "source_sha256": "2b450781f7160e7c3f84aa161de5b0a1cf415fe0c0662da92d1b7f10708410fb",
+    "release_sha256": "2b450781f7160e7c3f84aa161de5b0a1cf415fe0c0662da92d1b7f10708410fb"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig2_method_walkthrough.py",
+    "release": "analysis/paperA_fig2_method_walkthrough.py",
+    "source_sha256": "1f48c4a91a7294c6dd120d1a30a191ac8bbbe54878a7ad6c25f3c64eb2d70162",
+    "release_sha256": "259f741add71824d76518da99e5a8251abaf6028d12748db3268d21149a0bde5"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig3_d0_scatter_v2.py",
+    "release": "analysis/paperA_fig3_d0_scatter_v2.py",
+    "source_sha256": "a88dd134ace40a1e216ebb4fc8ed2c250c3a5721569d280acab6b393641fa952",
+    "release_sha256": "45d0cf412e4023933b626169d2250b5b4b043c4da7db2ae63f5b63e6987afd1c"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig3_xb_cdf.py",
+    "release": "analysis/paperA_fig3_xb_cdf.py",
+    "source_sha256": "38b3b9b9218d088debcf8665970c82b13742d0caa139f31cc8519cb7da29d6d6",
+    "release_sha256": "cf0ada4361d0a8fe0439f2da2a8ffa78966d360134f31844891d3e8da4e2e2ff"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig4_four_regime.py",
+    "release": "analysis/paperA_fig4_four_regime.py",
+    "source_sha256": "bca1f4b0a6f1d97f594792dfdee98c8bbfed6676da4d3033fac1871713353c18",
+    "release_sha256": "c40e93d3795ce558e7fb2f4a134c434fae8b55405b57c0b2c381951adb017926"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig_s3_kappa_wind_marginal_v2.py",
+    "release": "analysis/paperA_fig_s3_kappa_wind_marginal_v2.py",
+    "source_sha256": "49477ee0601cb227be6aa86ac4805ec06f2a7d7fbe4770d6f805d990ca4754aa",
+    "release_sha256": "49477ee0601cb227be6aa86ac4805ec06f2a7d7fbe4770d6f805d990ca4754aa"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_fig_s5_readable_panels.py",
+    "release": "analysis/paperA_fig_s5_readable_panels.py",
+    "source_sha256": "c1ad61699bc0a5663bf3f68319f66760eb5bca93ca52c9f1e473c08800a1b62c",
+    "release_sha256": "7c9a3610a80fccf046856f1067526de1a305c6c2eb4d7d65063565736f6b9c58"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_model_evidence.py",
+    "release": "analysis/paperA_model_evidence.py",
+    "source_sha256": "992d6fc0a681720584cf046d8bd2da135fdac241ff223c6cd3ee1c8756cb4b20",
+    "release_sha256": "a8a3e419549780b2ac430c17bdbcadfb695d6246a4dd437866b5405a9c753165"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_neff_acceptance.py",
+    "release": "analysis/paperA_neff_acceptance.py",
+    "source_sha256": "8ffe58a38239f1f2e41d04e291c502eeef9d78dcb1b162615bd124c37ebcaf8b",
+    "release_sha256": "9e193f96d6abc2bd0bb37ab2f78954c44bfaa01410732b13e43469907a824a80"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_paired_classifier.py",
+    "release": "analysis/paperA_paired_classifier.py",
+    "source_sha256": "b8d2e8f2cdbaa66187a796f37b76ec28af0774f10eed239b2f2047c9086cea16",
+    "release_sha256": "18a7806574cb0b67ea8ee63316b06b7a6cf4aac949684a909ce1ff27ddba322c"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_phenology_filter.py",
+    "release": "analysis/paperA_phenology_filter.py",
+    "source_sha256": "e6e6f516c4bd091c89cb2307132d90f6579f92673168596d9425b12d6ae44cac",
+    "release_sha256": "1c1b142d9ab679540cc35321216c3af243a79738d7fb8e6f721b138284ab8f1d"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_pixel_index.py",
+    "release": "analysis/paperA_pixel_index.py",
+    "source_sha256": "e44b8b9531c2dc95a74ffb4bd54d319b04a98ada4bc8671e71846f42c406cc2c",
+    "release_sha256": "981dbd465a6931ee73375f12e2b8d508f7a234a640dceef92d19243523ff667a"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_residuals_ar1.py",
+    "release": "analysis/paperA_residuals_ar1.py",
+    "source_sha256": "b66758316a7818db77c4fb927ca6750289f843f71152f26b0701386bdc005747",
+    "release_sha256": "c7668c3292dbec11671e89f63beffae2e02d9e1cd42de3489ec8ee89467b7a19"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_retention_table.py",
+    "release": "analysis/paperA_retention_table.py",
+    "source_sha256": "14ab1c31ad66c9d85ddbcce98be81eff3cd452d38bf0b044194cbc884e82bf9e",
+    "release_sha256": "769bc72d7c8afbb8b14e40dc28ea567a3fce9ad07a07095d98544cf7df68f435"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_sensitivity_figures.py",
+    "release": "analysis/paperA_sensitivity_figures.py",
+    "source_sha256": "e913050cbec9d8d190965cf75802c8b70211438fbee5ab26a0653d0b6e7dcf6e",
+    "release_sha256": "8011f3d31299fa3a2c3f88b28a01d4653a14ebdc1f6bd511b32c8436300ec416"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_sensitivity_grid.py",
+    "release": "analysis/paperA_sensitivity_grid.py",
+    "source_sha256": "46d3b5bd5457d0dc818c2626022d2a5c941d834915559f76bc482238a0f549eb",
+    "release_sha256": "cefff7009d9834c1591ffad91bdef25d0642788c64a95b53481a5da1317b6c43"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_sensitivity_survival.py",
+    "release": "analysis/paperA_sensitivity_survival.py",
+    "source_sha256": "365b3e971a2f5c1f6069daaecb3b4d834adea0d2d2f91af9635f33a4f62ef527",
+    "release_sha256": "5c39620d6d0b693c6241c9a9ba2522911cf0f020b04931545b0bc202457d24c6"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_smoke_aic_aicc_bic.py",
+    "release": "analysis/paperA_smoke_aic_aicc_bic.py",
+    "source_sha256": "f5d663b05d73bb51ccb63c606593860cc685c7c252e341e549c94b3a8338509b",
+    "release_sha256": "d37d32ee34ace077658af099a4666550011ba00b159260258bdaecfd9a6b4ef4"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_v1_table1_reproduction.py",
+    "release": "analysis/paperA_v1_table1_reproduction.py",
+    "source_sha256": "3bec1e2eec1609ab2f48e4d0f732d2088119531315bc662783319b80099de44b",
+    "release_sha256": "1deccebe91fc79d252ce5ba1ac438e9ca69096a7b8ef587e232c35d331de7e9f"
+  },
+  {
+    "source": "papers/breakpoint_index/scripts/paperA_xb_bootstrap.py",
+    "release": "analysis/paperA_xb_bootstrap.py",
+    "source_sha256": "6cdfc566af25628ea41fd30171802dae43f46cbf7fe0b7c4264616d94b304243",
+    "release_sha256": "954fe105b92304026dfc103a277d313ae78777708f2d1827a27e705d3bdf200f"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/00_define_windows_verify_inputs.py",
+    "release": "pipeline/00_define_windows_verify_inputs.py",
+    "source_sha256": "95a1dce932b2f898fd8ed9a71b567abc3d0fa8840c781d0ed6e4a4d1f2759bf8",
+    "release_sha256": "95a1dce932b2f898fd8ed9a71b567abc3d0fa8840c781d0ed6e4a4d1f2759bf8"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/01_construct_uibr.py",
+    "release": "pipeline/01_construct_uibr.py",
+    "source_sha256": "cac6990f10a22f77a48909bef7c31d35f5aa478d985a0ff9e38bec084b6473bd",
+    "release_sha256": "cac6990f10a22f77a48909bef7c31d35f5aa478d985a0ff9e38bec084b6473bd"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/02_construct_uisst_baseline.py",
+    "release": "pipeline/02_construct_uisst_baseline.py",
+    "source_sha256": "6524496232e2d56a06e74acee0acd675aff46b6959c7927057833e660527cce4",
+    "release_sha256": "6524496232e2d56a06e74acee0acd675aff46b6959c7927057833e660527cce4"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/03_construct_uiw_lamont.py",
+    "release": "pipeline/03_construct_uiw_lamont.py",
+    "source_sha256": "54a82b38883002c9a725cf577467eeedcdeda0cc1af12b56c2c2a23afaa194fc",
+    "release_sha256": "6a8578c94853a6b3b112bd156215b10e9e7c254c67603b1a6ffe1c521b9692f4"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/04_aggregate_per_cell.py",
+    "release": "pipeline/04_aggregate_per_cell.py",
+    "source_sha256": "186d2a90426790f7e00b46776727858143b694c879efef20d7ad3a08879abe68",
+    "release_sha256": "86bf68704e1a6da70458a5051b8302f9184dee865133c1a9227abc67222af2e1"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/04b_aggregate_uibr_daily.py",
+    "release": "pipeline/04b_aggregate_uibr_daily.py",
+    "source_sha256": "3669aa85b67bede5bcc0dbe43eecc2315c1c5b66ec8209f58b6b0c890c2e5ad0",
+    "release_sha256": "08d44a2700045b1daeea2681b71f075a4501853939eb9c3ee7cb634ca3e65f3d"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/04c_detect_uibr_events.py",
+    "release": "pipeline/04c_detect_uibr_events.py",
+    "source_sha256": "d0eb7bce9c85c75adc096d42cead8fe90d205bb21f539a3fe3aa82a759598bd2",
+    "release_sha256": "0fe940725e2ce55e61cb2225893b3d6c42cbd2cd699031bcff8e7d48960b8197"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/04d_cross_validate_wind_sst.py",
+    "release": "pipeline/04d_cross_validate_wind_sst.py",
+    "source_sha256": "cb7dc313064214ba1e3802a7d656169309e12750ab3e9a1a0811241ee42b4a69",
+    "release_sha256": "1bf2397ed3a281044e2f1c22bf062221035bf02634b49dc273cc52830d9bc6d9"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/05_compare_indices.py",
+    "release": "pipeline/05_compare_indices.py",
+    "source_sha256": "b0877d84b4cedfcd55d9e875267a08dfc83d81fb44768599e1a091eb76eac899",
+    "release_sha256": "0d52ff526e0df46fa03d37a737be0f600ad669b5adf2495d515e2f0e9580731f"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/08_make_figures.py",
+    "release": "pipeline/08_make_figures.py",
+    "source_sha256": "f4189902f10f9de7bb04e28cf753b42d9ca8bd2209a82fed4e21efc38735eb09",
+    "release_sha256": "e210a252b07f1309872fba94086cae9d26fc945b3ebfe4da96373381ed0ae3d4"
+  },
+  {
+    "source": "papers/breakpoint_index/pipeline/active/_uidx_common.py",
+    "release": "pipeline/_uidx_common.py",
+    "source_sha256": "7b3c45a9676511df0019b21ba5478b98aae7dc0f3f3af6754a3dbef721e2cbac",
+    "release_sha256": "7526be8a5505c596994387cd4317a87ea0293c19c73696db5d6d88244c347da8"
+  },
+  {
+    "source": "archive/uc2d_v2/scripts/active/07_build_feature_stack.py",
+    "release": "upstream/build_feature_stack.py",
+    "source_sha256": "f32e966279a6eff04ebadf53d4205397c393231f82f855617d22e760c30e6d7d",
+    "release_sha256": "1ebb662a785d554c6b142901295b56ad25f7d4a768335c078001a5ce3d093891"
+  },
+  {
+    "source": "papers/breakpoint_index/data_access/canonical_cell_windows.csv",
+    "release": "results/data_access/canonical_cell_windows.csv",
+    "source_sha256": "c795d9ece506206160c2f103754fad93f0a944e3deda75b5518267d6373d4018",
+    "release_sha256": "c795d9ece506206160c2f103754fad93f0a944e3deda75b5518267d6373d4018"
+  },
+  {
+    "source": "papers/breakpoint_index/data_access/canonical_cell_transects.csv",
+    "release": "results/data_access/canonical_cell_transects.csv",
+    "source_sha256": "ef58b36ec278bd2a55ec50ae16b905a92dfad5cd43af3b32f005f8d42269a0d3",
+    "release_sha256": "ef58b36ec278bd2a55ec50ae16b905a92dfad5cd43af3b32f005f8d42269a0d3"
+  },
+  {
+    "source": "papers/breakpoint_index/data_access/product_grain.csv",
+    "release": "results/data_access/product_grain.csv",
+    "source_sha256": "c16260606f5212c6b55ab6bf70316e77d3e4ffd6ec4f4b5b53e65c9d4e94277c",
+    "release_sha256": "c16260606f5212c6b55ab6bf70316e77d3e4ffd6ec4f4b5b53e65c9d4e94277c"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s4_pactive_sensitivity.csv",
+    "release": "results/tables/table_s4_pactive_sensitivity.csv",
+    "source_sha256": "7efc49699cedfd01c9c000f952a24d360bd3cce14b10cb552b22441d2217c14f",
+    "release_sha256": "7efc49699cedfd01c9c000f952a24d360bd3cce14b10cb552b22441d2217c14f"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s7_climatology_ar1.csv",
+    "release": "results/tables/table_s7_climatology_ar1.csv",
+    "source_sha256": "f189ba6bc320df578783106b48fd20e75b180f672773806467792c6b98efcbae",
+    "release_sha256": "f189ba6bc320df578783106b48fd20e75b180f672773806467792c6b98efcbae"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table1_per_cell_summary.csv",
+    "release": "results/tables/table1_per_cell_summary.csv",
+    "source_sha256": "eff6c3450db1bdcb25ed4b009fc6b743d4be251f3f0ee4e5451e37f6432b927a",
+    "release_sha256": "eff6c3450db1bdcb25ed4b009fc6b743d4be251f3f0ee4e5451e37f6432b927a"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/fig4_four_regime_stacked_bar.csv",
+    "release": "results/tables/fig4_four_regime_stacked_bar.csv",
+    "source_sha256": "8dbe5e850bb168e84d9681c0db405844eca74fde72d32399e81637a2d078dcc7",
+    "release_sha256": "8dbe5e850bb168e84d9681c0db405844eca74fde72d32399e81637a2d078dcc7"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s5_paired_classifier_ar1.csv",
+    "release": "results/tables/table_s5_paired_classifier_ar1.csv",
+    "source_sha256": "34b831af30b51195202960a116e55b03b5f74d2b880d5c9dc806ff3546f8cae1",
+    "release_sha256": "34b831af30b51195202960a116e55b03b5f74d2b880d5c9dc806ff3546f8cae1"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s8_fixed_distance_ar1.csv",
+    "release": "results/tables/table_s8_fixed_distance_ar1.csv",
+    "source_sha256": "eeea3dd46e38cf88805768451846a043d0c188583242039319fe1ec9f00b169a",
+    "release_sha256": "eeea3dd46e38cf88805768451846a043d0c188583242039319fe1ec9f00b169a"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s1_neff_ar1.csv",
+    "release": "results/tables/table_s1_neff_ar1.csv",
+    "source_sha256": "b4431c249562107881439ab35251c026741181de9ab476de60d1194ab6c5d2e5",
+    "release_sha256": "b4431c249562107881439ab35251c026741181de9ab476de60d1194ab6c5d2e5"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s3_aic_aicc_bic.csv",
+    "release": "results/tables/table_s3_aic_aicc_bic.csv",
+    "source_sha256": "1b8ee9d377400ef9823749c3e3ec0b7f115c8444b4274531ffb136403322086d",
+    "release_sha256": "1b8ee9d377400ef9823749c3e3ec0b7f115c8444b4274531ffb136403322086d"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s9_block_bootstrap_ar1.csv",
+    "release": "results/tables/table_s9_block_bootstrap_ar1.csv",
+    "source_sha256": "fd4d6c835d25501ba5ac602cecf6e5b9644126554b23cbf9fb1022a903f0186f",
+    "release_sha256": "fd4d6c835d25501ba5ac602cecf6e5b9644126554b23cbf9fb1022a903f0186f"
+  },
+  {
+    "source": "papers/breakpoint_index/tables/table_s10_phenology_ar1.csv",
+    "release": "results/tables/table_s10_phenology_ar1.csv",
+    "source_sha256": "c72ca321949551468e616012dddbd6aaf6bf3f107a1518aa88bd381026957f47",
+    "release_sha256": "c72ca321949551468e616012dddbd6aaf6bf3f107a1518aa88bd381026957f47"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/block_bootstrap.parquet",
+    "release": "results/diagnostics/block_bootstrap.parquet",
+    "source_sha256": "f8c27bf3043857a8f5cc6b1809c4d3fe296fcc9369c835d5834e0a8a19b79bfe",
+    "release_sha256": "f8c27bf3043857a8f5cc6b1809c4d3fe296fcc9369c835d5834e0a8a19b79bfe"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/din_thin_shift.csv",
+    "release": "results/diagnostics/din_thin_shift.csv",
+    "source_sha256": "4c3d64bc7a333b778d486428b2dbc9867147bff3cf99fe661a4af48ea8a4c324",
+    "release_sha256": "4c3d64bc7a333b778d486428b2dbc9867147bff3cf99fe661a4af48ea8a4c324"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/complete_lamont_years.csv",
+    "release": "results/diagnostics/complete_lamont_years.csv",
+    "source_sha256": "f303c4ceb792076a561de3d76e42d3afa8e27de3afa4353aff57b82aa0666c7a",
+    "release_sha256": "f303c4ceb792076a561de3d76e42d3afa8e27de3afa4353aff57b82aa0666c7a"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/smoke_aic_aicc_bic.csv",
+    "release": "results/diagnostics/smoke_aic_aicc_bic.csv",
+    "source_sha256": "e16c920e14ad388715495fbdd48efc6dbe2f1c912ba0929dd81d9c2ffe3467a4",
+    "release_sha256": "e16c920e14ad388715495fbdd48efc6dbe2f1c912ba0929dd81d9c2ffe3467a4"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/p_active_thin_vs_v1.csv",
+    "release": "results/diagnostics/p_active_thin_vs_v1.csv",
+    "source_sha256": "471ca38b84e9d257fb55ee723896f7c92035c0251b7f339686ea7f1fcf7394c7",
+    "release_sha256": "471ca38b84e9d257fb55ee723896f7c92035c0251b7f339686ea7f1fcf7394c7"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/xb_bootstrap.parquet",
+    "release": "results/diagnostics/xb_bootstrap.parquet",
+    "source_sha256": "7a5283baa3229a35d1b8a5d400f899c247360a3b72e8497850abdbc0d86bcbea",
+    "release_sha256": "7a5283baa3229a35d1b8a5d400f899c247360a3b72e8497850abdbc0d86bcbea"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/ar1_residuals.csv",
+    "release": "results/diagnostics/ar1_residuals.csv",
+    "source_sha256": "82639a9526f7c05839c5114de91d9a30956e01e6e578b3b4473e974e4354fd13",
+    "release_sha256": "82639a9526f7c05839c5114de91d9a30956e01e6e578b3b4473e974e4354fd13"
+  },
+  {
+    "source": "papers/breakpoint_index/diagnostics/sensitivity_grid_long.csv",
+    "release": "results/diagnostics/sensitivity_grid_long.csv",
+    "source_sha256": "60f7778614cf03e78aa332b764532e45d5b5ad220df7da82e35ed7d3b1c6314e",
+    "release_sha256": "60f7778614cf03e78aa332b764532e45d5b5ad220df7da82e35ed7d3b1c6314e"
+  },
+  {
+    "source": "papers/breakpoint_index/audit/paperA_cell_transects.csv",
+    "release": "results/audit/paperA_cell_transects.csv",
+    "source_sha256": "4e1935fd64e3cd5338580666ce3c1847fb8715dd2d2c0487109023ff8f4be249",
+    "release_sha256": "4e1935fd64e3cd5338580666ce3c1847fb8715dd2d2c0487109023ff8f4be249"
+  },
+  {
+    "source": "papers/breakpoint_index/audit/paperA_v1_table1_reproduction.csv",
+    "release": "results/audit/paperA_v1_table1_reproduction.csv",
+    "source_sha256": "a4678608edb76e0979f903ee21df0e120dc7af5678dcc372541c691e05e3c97e",
+    "release_sha256": "a4678608edb76e0979f903ee21df0e120dc7af5678dcc372541c691e05e3c97e"
+  },
+  {
+    "source": "data/outputs/versioned/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_nodes.csv",
+    "release": "data/derived/analysis_runs/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_nodes.csv",
+    "source_sha256": "af83bd8521c30bf6bb8aa93f4feb8aa5e1d76df4b3d554c0ee7b422a2b9a31f2",
+    "release_sha256": "af83bd8521c30bf6bb8aa93f4feb8aa5e1d76df4b3d554c0ee7b422a2b9a31f2"
+  },
+  {
+    "source": "data/outputs/versioned/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_crossline_distance_clips.csv",
+    "release": "data/derived/analysis_runs/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_crossline_distance_clips.csv",
+    "source_sha256": "db35d5d78a7f271dbac505d13fe5b034cb1acaa57544c00b546cc12838054f16",
+    "release_sha256": "db35d5d78a7f271dbac505d13fe5b034cb1acaa57544c00b546cc12838054f16"
+  },
+  {
+    "source": "data/outputs/versioned/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_crossline_isobath_clips.csv",
+    "release": "data/derived/analysis_runs/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_crossline_isobath_clips.csv",
+    "source_sha256": "36ab78b02bb1130d2ba4ad18ce8b44c1f46c60aa2a9150405e684593c64588d2",
+    "release_sha256": "36ab78b02bb1130d2ba4ad18ce8b44c1f46c60aa2a9150405e684593c64588d2"
+  },
+  {
+    "source": "data/outputs/versioned/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_along_lines.geojson",
+    "release": "data/derived/analysis_runs/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_along_lines.geojson",
+    "source_sha256": "cbd5fe6e19c2e40a3c90def678bd77742beca54a85e2b545247c3fed0c44390c",
+    "release_sha256": "cbd5fe6e19c2e40a3c90def678bd77742beca54a85e2b545247c3fed0c44390c"
+  },
+  {
+    "source": "data/outputs/versioned/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_cross_lines.geojson",
+    "release": "data/derived/analysis_runs/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_cross_lines.geojson",
+    "source_sha256": "41e36f089bad4920e5ab2e0be80c3030ef43508850819d6fe6cf5a62a42fd7cf",
+    "release_sha256": "41e36f089bad4920e5ab2e0be80c3030ef43508850819d6fe6cf5a62a42fd7cf"
+  },
+  {
+    "source": "data/outputs/versioned/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_boundary_match.csv",
+    "release": "data/derived/analysis_runs/fmm_uc2d_v2_outer500km_v2026_05_21_r2/mesh_curvilinear/mesh_boundary_match.csv",
+    "source_sha256": "f1acccdc93f99066a27d8ac549ddbe2c1a1656c58dc023a535d08f1fa6070cc8",
+    "release_sha256": "f1acccdc93f99066a27d8ac549ddbe2c1a1656c58dc023a535d08f1fa6070cc8"
+  },
+  {
+    "source": "data/derived/mesh_seeds/uc2d_v2/smoothed_coastline.geojson",
+    "release": "data/derived/mesh_seeds/uc2d_v2/smoothed_coastline.geojson",
+    "source_sha256": "dfa32a1a438e0e373c21a095edaa1d2ba4b56ef7fe7e62c0a873f8ffb46c92f4",
+    "release_sha256": "dfa32a1a438e0e373c21a095edaa1d2ba4b56ef7fe7e62c0a873f8ffb46c92f4"
+  },
+  {
+    "source": "data/outputs/uidx/diagnostics/paperA_fig_s5_profiles.parquet",
+    "release": "data/outputs/uidx/diagnostics/paperA_fig_s5_profiles.parquet",
+    "source_sha256": "69b42ed88e8e6c73283399e415a30bbef165428939d30607ae522cd6114fe3cd",
+    "release_sha256": "69b42ed88e8e6c73283399e415a30bbef165428939d30607ae522cd6114fe3cd"
+  },
+  {
+    "source": "data/outputs/uidx/diagnostics/paperA_fig_s5_manifest.csv",
+    "release": "data/outputs/uidx/diagnostics/paperA_fig_s5_manifest.csv",
+    "source_sha256": "a65ab69bdf5e80d76c925bec3bcaf2dc4a2858ee00d7d1bb4e1e60f39ca4c5f2",
+    "release_sha256": "a65ab69bdf5e80d76c925bec3bcaf2dc4a2858ee00d7d1bb4e1e60f39ca4c5f2"
+  },
+  {
+    "source": "data/outputs/uidx/paperA_ar1/fixed_distance_profiles.parquet",
+    "release": "data/outputs/uidx/paperA_ar1/fixed_distance_profiles.parquet",
+    "source_sha256": "8a1baf6ad56c88e632f0e55cefc10de1f07d39126118cacec79fb1555ca39cf5",
+    "release_sha256": "8a1baf6ad56c88e632f0e55cefc10de1f07d39126118cacec79fb1555ca39cf5"
+  },
+  {
+    "source": "data/outputs/uidx/paperA_ar1/per_cell_product_day.parquet",
+    "release": "data/outputs/uidx/paperA_ar1/per_cell_product_day.parquet",
+    "source_sha256": "3ff45f07a51dc551422bc27cbf84d017d1ec652d3c3d2c1823856ef56861befb",
+    "release_sha256": "3ff45f07a51dc551422bc27cbf84d017d1ec652d3c3d2c1823856ef56861befb"
+  },
+  {
+    "source": "data/outputs/uidx/uibr_phenology/per_cell_product_year.parquet",
+    "release": "data/outputs/uidx/uibr_phenology/per_cell_product_year.parquet",
+    "source_sha256": "11193dcdd3cb5759d207ade5bff92e2a5b9ea2e7d17bcc7cca0529645e9af858",
+    "release_sha256": "11193dcdd3cb5759d207ade5bff92e2a5b9ea2e7d17bcc7cca0529645e9af858"
+  },
+  {
+    "source": "data/outputs/uidx/uiw_lamont/per_cell_per_year.parquet",
+    "release": "data/outputs/uidx/uiw_lamont/per_cell_per_year.parquet",
+    "source_sha256": "484e3e5ac404874796a0498634d8b4a88046717e15a0d4358811bb89fe2ed2b9",
+    "release_sha256": "484e3e5ac404874796a0498634d8b4a88046717e15a0d4358811bb89fe2ed2b9"
+  },
+  {
+    "source": "data/outputs/uidx/uiw_lamont/daily_cell_wind.parquet",
+    "release": "data/outputs/uidx/uiw_lamont/daily_cell_wind.parquet",
+    "source_sha256": "59855f622ffe9af8c11a17eb75b88980aba738c6a4cda7f434f5d9145a5852dc",
+    "release_sha256": "59855f622ffe9af8c11a17eb75b88980aba738c6a4cda7f434f5d9145a5852dc"
+  },
+  {
+    "source": "data/outputs/uidx/uibr_phenology/daily_classification.parquet",
+    "release": "data/outputs/uidx/uibr_phenology/daily_classification.parquet",
+    "source_sha256": "6dd9bc35b99fd8af332f51da405cee1c8de52d3aecb6d11a36571c4a2519c8ae",
+    "release_sha256": "6dd9bc35b99fd8af332f51da405cee1c8de52d3aecb6d11a36571c4a2519c8ae"
+  }
+]

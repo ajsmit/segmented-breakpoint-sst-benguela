@@ -1,0 +1,6 @@
+cell,lat_centre,sub_system,coast_s_km_centre,coast_s_km_min,coast_s_km_max,half_width_km,design_note,n_transects,nearest_mesh_lat,nearest_mesh_lon,source_citation
+Cape Frio,-18.4,nBUS,828.0,728.0,928.0,100.0,,51,-18.39980968628471,12.009521725057798,LutjeharmsMeeuwis1987; Hutchings2009; KampfChapman2016
+Walvis Bay,-23.0,nBUS,1433.0,1333.0,1533.0,100.0,,50,-23.01692446634097,14.417937231353166,LutjeharmsMeeuwis1987; Hutchings2009; KampfChapman2016
+Luderitz,-26.5,nBUS / divide,1902.0,1802.0,2002.0,100.0,,48,-26.49686295048563,15.129903293456476,LutjeharmsMeeuwis1987; Hutchings2009; KampfChapman2016
+Cape Columbine,-32.8,sBUS,2751.0,2651.0,2842.5,100.0,"midpoint cut at 2842.5 km to disjoint from adjacent cell; effective half-width 95.5 km on the inner edge, 100 km on the outer edge",18,-32.786407971373315,17.9566917175899,LutjeharmsMeeuwis1987; Hutchings2009; KampfChapman2016
+Cape Peninsula,-34.0,sBUS,2934.0,2842.5,3034.0,100.0,"midpoint cut at 2842.5 km to disjoint from adjacent cell; effective half-width 95.5 km on the inner edge, 100 km on the outer edge",30,-34.0159440418656,18.370853590246032,LutjeharmsMeeuwis1987; Hutchings2009; KampfChapman2016
