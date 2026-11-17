@@ -67,5 +67,11 @@
     "upstream/build_feature_stack.py"
   ],
   "full_external_data_pipeline_rerun": false,
-  "representative_profile_visually_reviewed": true
+  "representative_profile_visually_reviewed": true,
+  "fresh_environment": {
+    "python": "3.12.13",
+    "requirements_install": "passed",
+    "scientific_checks": "passed",
+    "headline_example": "passed"
+  }
 }

@@ -11,10 +11,10 @@ independent oceanographic evidence.
 
 ## Quick verification
 
-Use Python 3.11 or later, from the repository root:
+Use Python 3.12, from the repository root:
 
 ```sh
-python3 -m venv .venv
+python3.12 -m venv .venv
 . .venv/bin/activate
 python -m pip install -r requirements.txt
 python tests/verify_release.py
