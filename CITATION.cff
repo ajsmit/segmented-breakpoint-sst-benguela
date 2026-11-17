@@ -3,6 +3,7 @@ message: "Please cite this software and the associated Ocean Science article."
 title: "A segmented-breakpoint measure of cross-shore sea-surface-temperature structure in the Benguela system: code and derived data"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.24306305
 date-released: 2026-11-17
 repository-code: "https://github.com/ajsmit/segmented-breakpoint-sst-benguela"
 authors:

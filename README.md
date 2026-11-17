@@ -50,7 +50,9 @@ reader in `analysis/paperA_common.py`.
 
 ## Citation and licensing
 
-Citation metadata are in `CITATION.cff`. The versioned Zenodo record is created
-through this repository's GitHub release integration. Code uses the MIT
+Version 1.0.0 is archived in Zenodo at
+[doi:10.5281/zenodo.24306305](https://doi.org/10.5281/zenodo.24306305).
+Citation metadata are in `CITATION.cff`. The record was published through
+this repository's GitHub release integration. Code uses the MIT
 licence. Derived tables, mesh and documentation use CC BY 4.0; see
 [DATA_LICENSE.md](DATA_LICENSE.md).
